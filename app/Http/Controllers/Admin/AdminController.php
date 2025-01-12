@@ -12,15 +12,13 @@ class AdminController extends Controller
 
     public function adminlogin(){
 
-
-
-        $data['title'] = 'Admin Dashboard';
-
-            
+        $data['title'] = 'Admin Login';
          return view('Admin.admin-login', $data);
-        
-        
+    }
 
+    public function admindashbord(){
+        $data['title'] = 'Admin Dashboard';
+        return view('Admin.admin-dashboard', $data);
     }
 
 }

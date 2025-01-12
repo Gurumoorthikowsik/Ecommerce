@@ -26,3 +26,4 @@ Route::get('login', [HomeController::class, 'login']);
 
 Route::get('admin-login', [AdminController::class, 'adminlogin']);
 
+Route::get('admin-dashbord', [AdminController::class, 'admindashbord']);

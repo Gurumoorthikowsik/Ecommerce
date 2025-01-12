@@ -1,7 +1,7 @@
      <!-- Header start  -->
      <header class="ec-header">
         <!--Ec Header Top Start -->
-        <div class="header-top">
+        {{-- <div class="header-top">
             <div class="container">
                 <div class="row align-items-center">
                     <!-- Header Top social Start -->
@@ -94,7 +94,7 @@
                     <!-- Header Top responsive Action -->
                 </div>
             </div>
-        </div>
+        </div> --}}
         <!-- Ec Header Top  End -->
         <!-- Ec Header Bottom  Start -->
         <div class="ec-header-bottom d-none d-lg-block">
@@ -186,7 +186,7 @@
         </div>
         <!-- Header responsive Bottom  End -->
         <!-- EC Main Menu Start -->
-        {{-- <div id="ec-main-menu-desk" class="d-none d-lg-block sticky-nav">
+        <div id="ec-main-menu-desk" class="d-none d-lg-block sticky-nav">
             <div class="container position-relative">
                 <div class="row">
                     <div class="col-md-12 align-self-center">
@@ -459,7 +459,7 @@
                     </div>
                 </div>
             </div>
-        </div> --}}
+        </div>
         <!-- Ec Main Menu End -->
         <!-- Mobile Menu Start -->
         <div id="ec-mobile-menu" class="ec-side-cart ec-mobile-menu">

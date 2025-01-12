@@ -452,7 +452,7 @@
 
 <!-- Feature tools -->
 <div class="ec-tools-sidebar-overlay"></div>
-<div class="ec-tools-sidebar">
+{{-- <div class="ec-tools-sidebar">
     <div class="tool-title">
         <h3>Features</h3>
     </div>
@@ -514,7 +514,7 @@
             <a class="clear-cach" href="javascript:void(0)">Clear Cache & Default</a>
         </div>
     </div>
-</div>
+</div> --}}
 <!-- Feature tools end -->
 
 <!-- Vendor JS -->
