@@ -17,3 +17,5 @@ use App\Http\Controllers\Users\HomeController;
 
 
 Route::get('/', [HomeController::class, 'index']);
+
+Route::get('login', [HomeController::class, 'login']);

@@ -16,7 +16,18 @@ class HomeController extends Controller
 
         $data['title'] = 'Home Page';
 
-        return view('User.home');
+      return view('User.home');
 
     }
+
+
+    public function login(){
+
+       
+
+      $data['title'] = 'Home Page';
+
+    return view('User.login');
+
+  }
 }
