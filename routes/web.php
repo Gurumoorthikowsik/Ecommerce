@@ -24,5 +24,5 @@ Route::get('login', [HomeController::class, 'login']);
 
 // ADMIN LARAVEL ROUTES
 
-Route::get('admin', [AdminController::class, 'adminlogin']);
+Route::get('admin-login', [AdminController::class, 'adminlogin']);
 

@@ -124,7 +124,7 @@
                     <div class="col text-center footer-copy">
                         <div class="footer-bottom-copy ">
                             <div class="ec-copy">Copyright © <span id="copyright_year"></span> <a class="site-name text-upper"
-                                    href="#">kka<span>.</span></a>. All Rights Reserved</div>
+                                    href="#">Bs<span>.</span></a>. All Rights Reserved</div>
                         </div>
                     </div>
                     <!-- Footer Copyright End -->
