@@ -1,10 +1,3 @@
-/**
-    Item Name: Ekka - Ecommerce HTML Template.
-    Author: ashishmaraviya
-    Version: 3.7
-    Copyright 2024
-    Author URI: https://themeforest.net/user/ashishmaraviya
-**/
 
 // Function To Create New Cookie 
 function ecCreateCookie(cookieName, cookieValue, daysToExpire) {
@@ -506,7 +499,7 @@ function ecCheckCookie() {
 
     })();
 
-    /*----------------------------- ekka Responsive Menu -----------------------------------*/
+    /*-----------------------------Responsive Menu -----------------------------------*/
     function ResponsiveMobileekkaMenu() {
         var $ekkaNav = $(".ec-menu-content, .overlay-menu"),
             $ekkaNavSubMenu = $ekkaNav.find(".sub-menu");
@@ -1343,10 +1336,11 @@ function ecCheckCookie() {
     });
 
     /*----------------------------- Recent auto popup -----------------------------------*/
-    setInterval(function () { $(".recent-purchase").stop().slideToggle('slow'); }, 10000);
-    $(".recent-close").click(function () {
-        $(".recent-purchase").stop().slideToggle('slow');
-    });
+    // setInterval(function () { $(".recent-purchase").stop().slideToggle('slow'); }, 10000);
+    // alert('Interval');
+    // $(".recent-close").click(function () {
+    //     $(".recent-purchase").stop().slideToggle('slow');
+    // });
 
     /*----------------------------- Whatsapp chat --------------------------------*/
     $(document).ready(function () {

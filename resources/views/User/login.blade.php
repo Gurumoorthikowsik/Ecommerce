@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
-<!-- Mirrored from maraviyainfotech.com/projects/ekka/ekka-v37/ekka-html/login.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 04 Jan 2025 17:29:29 GMT -->
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
-    <title>Ekka - Ecommerce HTML Template + Admin Dashboard.</title>
+    <title>Ecommerce HTML Template + Admin Dashboard.</title>
     <meta name="keywords"
         content="apparel, catalog, clean, ecommerce, ecommerce HTML, electronics, fashion, html eCommerce, html store, minimal, multipurpose, multipurpose ecommerce, online store, responsive ecommerce template, shops" />
     <meta name="description" content="Best ecommerce html template for single and multi vendor store.">
@@ -482,7 +480,7 @@
            </div>
        </div>
        <!-- Ec Main Menu End -->
-       <!-- ekka Mobile Menu Start -->
+       <!-- Mobile Menu Start -->
        <div id="ec-mobile-menu" class="ec-side-cart ec-mobile-menu">
            <div class="ec-menu-title">
                <span class="menu_title">My Menu</span>
@@ -721,11 +719,11 @@
                </div>
            </div>
        </div>
-       <!-- ekka mobile Menu End -->
+       <!-- mobile Menu End -->
    </header>
    <!-- Header End  -->
 
-   <!-- ekka Cart Start -->
+   <!-- Cart Start -->
    <div class="ec-side-cart-overlay"></div>
    <div id="ec-side-cart" class="ec-side-cart">
        <div class="ec-cart-inner">
@@ -799,7 +797,7 @@
            </div>
        </div>
    </div>
-   <!-- ekka Cart End -->
+   <!--Cart End -->
 
    <!-- Ec breadcrumb start -->
    <div class="sticky-header-next-sec  ec-breadcrumb section-space-mb">
@@ -982,7 +980,7 @@
                        <div class="col text-center footer-copy">
                            <div class="footer-bottom-copy ">
                                <div class="ec-copy">Copyright © <span id="copyright_year"></span> <a class="site-name text-upper"
-                                       href="#">ekka<span>.</span></a>. All Rights Reserved</div>
+                                       href="#">kka<span>.</span></a>. All Rights Reserved</div>
                            </div>
                        </div>
                        <!-- Footer Copyright End -->
@@ -1268,6 +1266,5 @@
 
 </body>
 
-<!-- Mirrored from maraviyainfotech.com/projects/ekka/ekka-v37/ekka-html/login.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 04 Jan 2025 17:29:29 GMT -->
 </html>
 

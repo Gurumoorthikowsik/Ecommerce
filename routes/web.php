@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Admin\AdminController;
 use Illuminate\Support\Facades\Route;
 
 use App\Http\Controllers\Users\HomeController;
@@ -15,7 +16,13 @@ use App\Http\Controllers\Users\HomeController;
 |
 */
 
+// USER LARAVEL ROUTES
 
 Route::get('/', [HomeController::class, 'index']);
-
 Route::get('login', [HomeController::class, 'login']);
+
+
+// ADMIN LARAVEL ROUTES
+
+Route::get('admin', [AdminController::class, 'adminlogin']);
+
