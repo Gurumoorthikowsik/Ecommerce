@@ -1,9 +1,13 @@
 <?php
 
-use App\Http\Controllers\Admin\AdminController;
 use Illuminate\Support\Facades\Route;
 
 use App\Http\Controllers\Users\HomeController;
+
+
+use App\Http\Controllers\Admin\AdminController;
+use App\Http\Controllers\Admin\ProductController;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -27,3 +31,5 @@ Route::get('login', [HomeController::class, 'login']);
 Route::get('admin-login', [AdminController::class, 'adminlogin']);
 
 Route::get('admin-dashbord', [AdminController::class, 'admindashbord']); 
+
+Route::get('create-product', [ProductController::class, 'create_product']);
